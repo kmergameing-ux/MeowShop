@@ -1,5 +1,5 @@
 {
-  "name": "diamond-topup-shop",
+  "name": "meowshop",
   "private": true,
   "version": "1.0.0",
   "scripts": {
@@ -17,5 +17,6 @@
   },
   "devDependencies": {
     "wrangler": "^4.128.0"
-  }
+  },
+  "description": "MeowShop - Game Top Up Cambodia"
 }
